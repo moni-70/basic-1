@@ -1,0 +1,13 @@
+body{margin: 0;background-color: #9adf9a;}
+.container{
+	background-color:#61618a;
+	text-align: center;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	box-shadow: 5px 5px 26px #9c9cb7;
+	border-radius: 10px;
+}
+h1{background-color:#3d4a6f;font-size: 3em;font-style: italic;margin: 0;padding: 10px;margin-top: 65px;border-radius-top: 20px;border-radius: 10px;}
+p{/*! border-block-color: #752260; */font-size: 23px;padding-bottom: 10px;padding: 0px 10px;}
